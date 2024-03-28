@@ -16,13 +16,13 @@ No Plugins will be installed, you have just made them available. You can now sel
 
 ## [RotationSolverReborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
 - Fork of RotationSolver by Archi, with our own customizations, a combat solver.
-- Maintained and developed mainly by LTS, Nostra, croizat, with a base in code by Archi and the various other contributors on his repo. 
+- Maintained and developed mainly by LTS, Nostra, croizat/Jaksuhn, with the baseline code by Archi and the various other contributors on his repo. 
 - Support can be found on [RotationSolverReborn Discord](https://discord.gg/p54TZMPnC9).
 - This plugin requires Avarice.
 
 ## [BossmodReborn](https://github.com/FFXIV-CombatReborn/BossmodReborn)
 - Fork of Bossmod, but with additional support for other fights. These fights will also end up in the main Bossmod repo.
-- Developed by originally by veyn/agwil. 
+- Combat modules maintained and developed mainly by LTS, CarnifexOptimus, and McVaxius, with the platform maintained and developed by veyn/agwil. 
 
 ## Support and bugreports
 Support is provided and bugreports are accepted via Github issues in a specific plugin's repository or discord server.
