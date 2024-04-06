@@ -24,7 +24,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 - Combat modules maintained and developed mainly by LTS, CarnifexOptimus, and McVaxius, with the platform maintained and developed by veyn/agwil.
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
 
-- ## [ActionTimeline Reborn](https://github.com/FFXIV-CombatReborn/ActionTimelineReborn)
+## [ActionTimeline Reborn](https://github.com/FFXIV-CombatReborn/ActionTimelineReborn)
 - Fork of a fork of ActionTimeline by Tischel. Shows the timeline for actions in combat, showing animationlock between them as well as which abilties were used to better track rotation.
 - Maintained by Nostra and LTS, with a baseline of code by Tischel and Archi.
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
