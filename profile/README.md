@@ -16,7 +16,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 
 ## [Rotation Solver Reborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
 - Fork of RotationSolver by Archi, with our own customizations, a combat solver.
-- Maintained and developed mainly by LTS, Nostra, croizat/Jaksuhn, with the baseline code by Archi and the various other contributors on his repo. 
+- Maintained and developed mainly by LTS and Nostra with the baseline code by Archi and the various other contributors on his repo. 
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
 
 ## [Bossmod Reborn](https://github.com/FFXIV-CombatReborn/BossmodReborn)
