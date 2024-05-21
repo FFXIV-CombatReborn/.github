@@ -14,26 +14,38 @@ https://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/plugi
 Following these steps, you should be able to see all contained plugins in the Available Plugins tab in the Dalamud Plugin Installer.
 No Plugins will be installed, you have just made them available. You can now select which of these plugins you actually want to install.
 
+##
+[Rotation Solver Reborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
 
-# [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png)](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
-## [Rotation Solver Reborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
+[![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png)](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
 - Fork of RotationSolver by Archi, with our own customizations, a combat solver.
 - Maintained and developed mainly by LTS and Nostra with the baseline code by Archi and the various other contributors on his repo. 
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
 
+##
+[Bossmod Reborn](https://github.com/FFXIV-CombatReborn/BossmodReborn)
 
-# [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png)](https://github.com/FFXIV-CombatReborn/BossmodReborn)
-## [Bossmod Reborn](https://github.com/FFXIV-CombatReborn/BossmodReborn)
+[![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png)](https://github.com/FFXIV-CombatReborn/BossmodReborn)
 - Fork of Bossmod, but with additional support for other fights. These fights will also end up in the main Bossmod repo.
-- Combat modules maintained and developed mainly by LTS, CarnifexOptimus, and McVaxius, with the platform maintained and developed by veyn/agwil.
+- Combat modules maintained and developed mainly by LTS, CarnifexOptimus, and Nostra, with the platform maintained and developed by veyn/agwil.
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
 
+##
+[Gatherbuddy Reborn](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
 
-# [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png)](https://github.com/FFXIV-CombatReborn/ActionTimelineReborn)
-## [ActionTimeline Reborn](https://github.com/FFXIV-CombatReborn/ActionTimelineReborn)
+[![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png)](https://github.com/FFXIV-CombatReborn/GatherBuddyReborn)
+- Fork of Gatherbuddy by Ottermandias. Modified version, allowing for automated gathering with more features to come!
+- Maintained by Nostra with a baseline of code by Ottermandias.
+- Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
+##
+
+[ActionTimeline Reborn](https://github.com/FFXIV-CombatReborn/ActionTimelineReborn)
+
+[![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png)](https://github.com/FFXIV-CombatReborn/ActionTimelineReborn)
 - Fork of a fork of ActionTimeline by Tischel. Shows the timeline for actions in combat, showing animationlock between them as well as which abilties were used to better track rotation.
 - Maintained by Nostra and LTS, with a baseline of code by Tischel and Archi.
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
+##
 
 ## Support and bugreports
 Support is provided and bugreports are accepted via Github issues in a specific plugin's repository or discord server.
