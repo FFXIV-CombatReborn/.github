@@ -26,7 +26,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 [Bossmod Reborn](https://github.com/FFXIV-CombatReborn/BossmodReborn)
 
 [![](https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png)](https://github.com/FFXIV-CombatReborn/BossmodReborn)
-- Fork of Bossmod, but with additional support for other fights. These fights will also end up in the main Bossmod repo.
+- Fork of Bossmod, but with additional support for additional fights.
 - Combat modules maintained and developed mainly by LTS, CarnifexOptimus, and Nostra, with the platform maintained and developed by veyn/agwil.
 - Support can be found on [Combat Reborn Discord](https://discord.gg/p54TZMPnC9).
 
